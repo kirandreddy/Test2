@@ -1,0 +1,19 @@
+package Externalmock;
+
+public  class Implementation_class implements Test
+
+{
+
+	public void car()
+	{
+		System.out.println("Innova");
+		
+	}
+	
+	public void laptop()
+	{
+		System.out.println("Asus");
+	}
+	
+	
+}
